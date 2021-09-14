@@ -1,0 +1,5 @@
+{
+    "name": "phpsapi/project",
+    "description": "The PHP SAPI project.",
+    "require": {}
+}
